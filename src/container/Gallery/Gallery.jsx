@@ -18,15 +18,12 @@ const Gallery = () => {
     images.gallery04,
   ];
   const scroll = (direction) => {
-    // console.log("hello");
     const { current } = scrollRef;
 
     if (direction === "left") {
       current.scrollLeft -= 300;
-      // console.log("left");
     } else {
       current.scrollLeft += 300;
-      // console.log("right");
     }
   };
 
