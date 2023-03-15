@@ -14,8 +14,7 @@ To install all dependencies
 
 ### npm start
 
+Visite the website https://gericht-a.netlify.app/ 
 
-Visite the website https://gericht-a.netlify.app/
-
-The Figma desigm link  https://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=0%3A21&t=SPD0QAMDv9osde51-0
+The Figma desigm link : https://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=0%3A21&t=SPD0QAMDv9osde51-0
 
